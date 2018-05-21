@@ -75,6 +75,21 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="about.html" />
+    <Content Include="contact.html" />
+    <Content Include="designer.html" />
+    <Content Include="developer.html" />
+    <Content Include="form.css" />
+    <Content Include="images\art-artist-blur-436775.jpg" />
+    <Content Include="images\code-coding-computer-248515 %281%29.jpg" />
+    <Content Include="images\code-coding-computer-248515.jpg" />
+    <Content Include="images\designer.jpg" />
+    <Content Include="images\JH-Logo-Circle-Green-Website.png" />
+    <Content Include="images\programmer.jpg" />
+    <Content Include="main.js" />
+    <Content Include="index.html" />
+    <Content Include="portfolio.html" />
+    <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
